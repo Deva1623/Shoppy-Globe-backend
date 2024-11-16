@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Smartphone",
+    "price": 699,
+    "description": "A high-quality smartphone with a stunning display and powerful processor.",
+    "stock": 50
+  },
+  {
+    "name": "Laptop",
+    "price": 1200,
+    "description": "A sleek laptop with powerful performance, perfect for work and entertainment.",
+    "stock": 30
+  },
+  {
+    "name": "Wireless Earbuds",
+    "price": 150,
+    "description": "Compact wireless earbuds with noise cancellation and long battery life.",
+    "stock": 100
+  },
+  {
+    "name": "Smartwatch",
+    "price": 200,
+    "description": "A stylish smartwatch with health tracking and notification features.",
+    "stock": 70
+  },
+  {
+    "name": "Tablet",
+    "price": 450,
+    "description": "A lightweight tablet with a large screen, ideal for media consumption.",
+    "stock": 40
+  },
+  {
+    "name": "Gaming Console",
+    "price": 500,
+    "description": "A powerful gaming console with access to a vast library of games.",
+    "stock": 20
+  },
+  {
+    "name": "4K TV",
+    "price": 800,
+    "description": "A large 4K television with HDR and immersive sound quality.",
+    "stock": 15
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "price": 99,
+    "description": "Portable Bluetooth speaker with excellent sound quality and long battery life.",
+    "stock": 150
+  },
+  {
+    "name": "DSLR Camera",
+    "price": 850,
+    "description": "High-resolution DSLR camera for capturing stunning photos and videos.",
+    "stock": 10
+  },
+  {
+    "name": "Fitness Tracker",
+    "price": 50,
+    "description": "A wearable fitness tracker to monitor your health and daily activities.",
+    "stock": 90
+  }
+]
