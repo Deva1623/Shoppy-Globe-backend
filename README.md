@@ -1,4 +1,4 @@
 Backend for Shoppy-Globe, with API Screenshots using Thunder-Client
 
-run npm i
-run node seerver.js
+1) run npm i
+2) run node seerver.js
